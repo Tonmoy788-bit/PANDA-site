@@ -4,3 +4,20 @@ body{
 .slider-color{
     background-color:#FEEAE9 ;
 }
+.panda-btn-danger{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.catagoris img{
+    width: 100px;
+}
+.panda-bg-info{
+    background-color: rgb(199, 100, 224);
+}
+.last-line{
+    background-color:#FEEAE9 ;
+    height: 300px;
+}
